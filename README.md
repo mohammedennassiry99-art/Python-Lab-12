@@ -8,7 +8,7 @@
 <img width="383" height="250" alt="Etape 2 code " src="https://github.com/user-attachments/assets/0dd5ebc3-8f7f-4eec-86e6-348c7051464c" />
 <br/>
 <img width="278" height="78" alt="Etape 2 exe " src="https://github.com/user-attachments/assets/85ba3f53-31ae-4534-a134-0f48a8c6bbdd" />
-<br/>
+<hr/>
 <img width="383" height="373" alt="Etape 3 code" src="https://github.com/user-attachments/assets/e8108095-2c46-47c8-a498-fc7abde9bc4d" />
 <hr/>
 <img width="317" height="133" alt="Etape 3 exe" src="https://github.com/user-attachments/assets/173c05d2-9233-462c-b5c4-95fe76b87746" />
@@ -18,7 +18,7 @@
 <img width="341" height="223" alt="Etape 4 exe" src="https://github.com/user-attachments/assets/5704f6ab-a46c-47d1-8a31-d12c5a696c78" />
 <hr/>
 <img width="407" height="139" alt="Etape 5 code " src="https://github.com/user-attachments/assets/6ae62ed1-ab94-4792-b140-b1b3cd15703a" />
-<br/>
+<hr/>
 <img width="322" height="179" alt="Etape 5 exe " src="https://github.com/user-attachments/assets/31ce31d7-7732-4de0-b4e2-88fb4508b58f" />
 <hr/>
 <img width="431" height="206" alt="Etape 7 code" src="https://github.com/user-attachments/assets/42b43ecb-ca0b-4806-b968-6a01f1b9b769" />
